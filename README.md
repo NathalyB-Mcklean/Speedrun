@@ -1,7 +1,7 @@
-To be honest, I just created this project to learn more about different programming languages and how to use them in specific situations. The name "Speedrun" was chosen randomly.
+To be honest, I just created this project to learn more about different programming languages and how to use them in specific situations. The name "Speedrun" was chosen randomly (or not).
 
 Objective:
-This project is a basic web page designed to display data obtained from an Arduino sensor (or something along those lines).
+This project is a basic web page designed to display data obtained from an Arduino sensor (or sum like that).
 
 Usage:
 Just, use it  responsibly.
