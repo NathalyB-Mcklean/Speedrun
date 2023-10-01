@@ -1,4 +1,3 @@
-Speedrun
 To be honest, I just created this project to learn more about different programming languages and how to use them in specific situations. The name "Speedrun" was chosen randomly.
 
 Objective:
